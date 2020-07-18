@@ -16,6 +16,7 @@ Week 6: Optimization
 
 Week 7: Final Project - 
 Final Project: https://github.com/christianthieme/DATA604-Simulations-and-Modeling/blob/master/Week%207%20-%20Final%20Project/Final%20Project%20-%20Organic%20Egg%20Sales%20Simulation.ipynb
+
 YouTube Video of final presentation: https://youtu.be/jWP_i-fxJLA
 Slide deck: https://1drv.ms/p/s!AslqVAwJ4E4cg9EdJPqvpiUsASO3sg?e=znk2xU
 
